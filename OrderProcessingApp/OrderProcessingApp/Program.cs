@@ -25,6 +25,8 @@ namespace OrderProcessingApp
                 "4. Membership Upgrade \n" +
                 "5. Video \n");
             string input = Console.ReadLine();
+
+            //Validate if the input is an integer or a string
             try
             {
                 //Retrieving the correct product type from enum based on the input by the user
