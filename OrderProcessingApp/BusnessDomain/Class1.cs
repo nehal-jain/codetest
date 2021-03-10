@@ -4,5 +4,6 @@ namespace BusnessDomain
 {
     public class Class1
     {
+        //
     }
 }
