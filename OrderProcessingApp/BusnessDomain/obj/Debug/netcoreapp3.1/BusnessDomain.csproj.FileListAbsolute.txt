@@ -1,0 +1,9 @@
+D:\CodeTest\OrderProcessingApp\BusnessDomain\bin\Debug\netcoreapp3.1\BusnessDomain.deps.json
+D:\CodeTest\OrderProcessingApp\BusnessDomain\bin\Debug\netcoreapp3.1\BusnessDomain.dll
+D:\CodeTest\OrderProcessingApp\BusnessDomain\bin\Debug\netcoreapp3.1\BusnessDomain.pdb
+D:\CodeTest\OrderProcessingApp\BusnessDomain\obj\Debug\netcoreapp3.1\BusnessDomain.csprojAssemblyReference.cache
+D:\CodeTest\OrderProcessingApp\BusnessDomain\obj\Debug\netcoreapp3.1\BusnessDomain.AssemblyInfoInputs.cache
+D:\CodeTest\OrderProcessingApp\BusnessDomain\obj\Debug\netcoreapp3.1\BusnessDomain.AssemblyInfo.cs
+D:\CodeTest\OrderProcessingApp\BusnessDomain\obj\Debug\netcoreapp3.1\BusnessDomain.csproj.CoreCompileInputs.cache
+D:\CodeTest\OrderProcessingApp\BusnessDomain\obj\Debug\netcoreapp3.1\BusnessDomain.dll
+D:\CodeTest\OrderProcessingApp\BusnessDomain\obj\Debug\netcoreapp3.1\BusnessDomain.pdb

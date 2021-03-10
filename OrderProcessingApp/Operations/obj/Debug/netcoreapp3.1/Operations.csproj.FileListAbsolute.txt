@@ -1,0 +1,9 @@
+D:\CodeTest\OrderProcessingApp\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\CodeTest\OrderProcessingApp\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\CodeTest\OrderProcessingApp\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\CodeTest\OrderProcessingApp\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+D:\CodeTest\OrderProcessingApp\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\CodeTest\OrderProcessingApp\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\CodeTest\OrderProcessingApp\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\CodeTest\OrderProcessingApp\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\CodeTest\OrderProcessingApp\Operations\obj\Debug\netcoreapp3.1\Operations.pdb

@@ -1,0 +1,13 @@
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.exe
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.deps.json
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.runtimeconfig.json
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.runtimeconfig.dev.json
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.dll
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.pdb
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.csprojAssemblyReference.cache
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.AssemblyInfoInputs.cache
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.AssemblyInfo.cs
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.csproj.CoreCompileInputs.cache
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.dll
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.pdb
+D:\CodeTest\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.genruntimeconfig.cache
