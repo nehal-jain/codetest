@@ -32,7 +32,7 @@ namespace OrderProcessingApp
             //Process the Order for the selected product
             bool orderProcess = orderRule.ProcessOrder(productType);
 
-            Console.WriteLine("Thank you! Your order has been processed!");
+            Console.WriteLine("\nThank you! Your order has been processed!");
             Console.ReadLine();
         }
     }
