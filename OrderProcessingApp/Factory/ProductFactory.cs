@@ -7,7 +7,7 @@ using BusnessDomain.Rules;
 
 namespace Factory
 {
-    public class ProductFacotry : IProductFactory
+    public class ProductFactory : IProductFactory
     {
         public IOrderProcess GetProductRuleInstance(ProductType productType)
         {
