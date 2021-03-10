@@ -30,7 +30,7 @@ namespace Operations
         }
         public bool UpgradeMembership()
         {
-            Console.WriteLine("\nMembership has been activated...");
+            Console.WriteLine("\nMembership has been upgraded...");
             return true;
         }
 

@@ -14,6 +14,7 @@ namespace OrderProcessingApp
             ProductType product;
             IProductFactory prodFactory;
             IOrderProcess orderRule;
+            string productType = string.Empty;
             bool orderProcess = false;
 
             //Getting the input from the user about which product to process
@@ -24,16 +25,23 @@ namespace OrderProcessingApp
                 "4. Membership Upgrade \n" +
                 "5. Video \n");
             string input = Console.ReadLine();
-            
-            //Retrieving the correct product type from enum based on the input by the user
-            string productType = Enum.GetName(typeof(ProductType), Convert.ToInt32(input));
+            try
+            {
+                //Retrieving the correct product type from enum based on the input by the user
+                productType = Enum.GetName(typeof(ProductType), Convert.ToInt32(input));
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Sorry, we do not process this product type.");
+            }
+
 
             //If it is a valid input, go ahead and process the order
             if (!string.IsNullOrEmpty(productType))
             {
                 product = (ProductType)Enum.Parse(typeof(ProductType), productType);
                 //Initializing the Factory
-                prodFactory = new ProductFacotry();
+                prodFactory = new ProductFactory();
 
                 //Processing the order
                 orderRule = prodFactory.GetProductRuleInstance(product);
