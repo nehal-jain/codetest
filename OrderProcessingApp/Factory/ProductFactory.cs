@@ -30,7 +30,7 @@ namespace Factory
                     orderRule = new VideoRule();
                     break;
                 default:
-                    orderRule = new PhysicalProductRule();
+                    orderRule = new NewProductRule();
                     break;
             }
             return orderRule;
