@@ -1,4 +1,4 @@
-﻿using BusnessDomain.Models;
+﻿
 using Operations.Interfaces;
 using System;
 
@@ -6,39 +6,46 @@ namespace Operations
 {
     public class Operations : IPackingSlip, IMembership, ICommission
     {
-        public bool ActivateMembership(Product product)
+        public bool GeneratePackingSlip()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Generated packing slip...");
+            return true;
+        }
+        public bool GenerateDuplicatePackingSlip()
+        {
+            Console.WriteLine("Generated duplicate packing slip...");
+            return true;
         }
 
-        public bool GenerateCommission(Product product)
+        public bool GenerateCommission()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Commission generated for the agent...");
+            return true;
         }
 
-        public bool GenerateDuplicatePackingSlip(Product product)
+        public bool ActivateMembership()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Membership Activated...");
+            return true;
+        }
+        public bool UpgradeMembership()
+        {
+            Console.WriteLine("Membership has been activated...");
+            return true;
         }
 
-        public bool GeneratePackingSlip(Product product)
+        public bool SendActivationMembershipEmail()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Email sent to inform the owner about the activatation of the membership...");
+            return true;
         }
 
-        public bool SendActivationMembershipEmail(Product product)
+        public bool SendUpgradeMembershipEmail()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Email sent to inform the owner about the upgrade in membership...");
+            return true;
         }
 
-        public bool SendUpgradeMembershipEmail(Product product)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool UpgradeMembership(Product product)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
